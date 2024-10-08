@@ -1,2 +1,2 @@
-# SistemaBanc-rio
+# Sistema Bancario
 Sistema Bancário em Python
